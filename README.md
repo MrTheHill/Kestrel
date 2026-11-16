@@ -1,1 +1,1 @@
-﻿# Kestrel - A Security Events & Incident Management Tool
+﻿# Kestrel - A Security Information & Events Management Tool
